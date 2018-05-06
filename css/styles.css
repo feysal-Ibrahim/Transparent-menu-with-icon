@@ -23,7 +23,7 @@ body {
   background: #000;
    color: #fff;
    width: 42px;
-   height: 42px;
+   height: 42px;   
    text-align: center;
    line-height: 42px;
    border-radius: : 50%;
@@ -33,5 +33,5 @@ body {
   color: pointer;
   background-color: #fff;
   color: #333;
-  
+
 }
